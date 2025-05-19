@@ -10,7 +10,8 @@ if __name__ == "__main__":
     print(f"{num1} + {num2} = {add(num1, num2)}")
     print(f"{num1} - {num2} = {subtract(num1, num2)}")
     "не вдалося додати множення до калькулятора"
-    print("Базовий калькулятор готовий.")
+    print("Виправлено повідомлення у головній гілці.")
+
 
 def multiply(x, y):
     return x * y
